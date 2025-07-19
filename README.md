@@ -9,6 +9,8 @@
 ░▒▓█▓▒░   ░▒▓█▓▒░  ░▒▓█▓▒░ ░▒▓█▓▒░  ░▒▓█▓▒░ ░▒▓█▓▒░  ░▒▓█▓▒░  ░▒▓███████▓▒░   ░▒▓█▓▒░ ░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░     ░▒▓█▓▒░  ░▒▓█████████▓▒░    ░▒▓█▓▒░
 </pre>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="./people walking gif.gif" width="100%">
+
 
 <div align="center">
 <h2 align="center">About Me</h2>
@@ -74,7 +76,7 @@
 <br> 
 <br>
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">📈 Github Stats</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="quote" />
 </div>
