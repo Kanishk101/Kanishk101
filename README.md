@@ -46,7 +46,7 @@
 </div>
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=Kanish&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=Kanishk101&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.png">
