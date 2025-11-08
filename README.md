@@ -23,15 +23,15 @@
   
 📚 Pursuing my studies at **[SRM Kattankulathur](https://www.srmist.edu.in/)**
   
-🔭 Currently working on **AI / ML** and **SWE Projects**
+🔭 Currently working on **AI / ML**, **App Dev** and **SWE Projects**
 
 👯 Looking to collaborate on **Machine Learning Projects, Open Source Contributions**
 
-🤝 Continuously looking for the right Guidance and Feedback
+🤝 Continuously seeking the right Guidance and Feedback
 
 🌱 Currently learning **Swift, DSA**
 
-📫 How to reach me **kanishk.s2015@gmail.com**
+📫 Reach me through **kanishk.s2015@gmail.com**
 </div>
 <br>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
 <h4>Employer?</h4>
-<a href="https://drive.google.com/file/d/172x9B0BZE6p8vgq25o2p7wFUoQzqjTtd/view?usp=sharing">Have a look at my Resume</a>
+<a href="https://drive.google.com/file/d/1UFtZLuj_b5yrtLsg5_wkiL14MA5i8e5o/view?usp=share_link">Have a look at my Resume</a>
   
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.png">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
